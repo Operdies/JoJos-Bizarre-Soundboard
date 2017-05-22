@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JoJo\'s Bizarre Soundboard</string>
+    <string name="action_settings">Reset favorites</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
